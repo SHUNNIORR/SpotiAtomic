@@ -1,0 +1,16 @@
+.fav-titulo-contenedor{
+    display: flex;
+    justify-content: center;
+    margin: 20px;;
+}
+.titulo{
+    color: white;
+    font-size: 2rem;
+}
+.favoritos-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1000px;
+}
